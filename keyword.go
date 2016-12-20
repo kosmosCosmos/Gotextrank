@@ -3,7 +3,7 @@ package textRank
 import (
 	"bufio"
 	"fmt"
-	r "github.com/ggaaooppeenngg/Gommseg"
+	r "github.com/raquelken/gommseg"
 	"os"
 	"sort"
 )
